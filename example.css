@@ -79,6 +79,23 @@ body {
     width: 100%;
     padding: 20px;
 }
+    div {
+        height: 400px;
+        width: 500px;
+        border: 1px solid black;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+    }
+    .div1 {
+        background-image: url(./23-107429.jpeg);
+    }
+    .div2 {
+        background-image: url(./23-107429.jpeg);
+    }
+    .div3 {
+        background-image: url(./23-107429.jpeg);
+    }
  
 /* 底部 */
 .footer {
